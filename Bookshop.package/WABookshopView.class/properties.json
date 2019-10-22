@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JulianGrigera 9/6/2019 15:38",
+	"super" : "WAComponent",
+	"category" : "Bookshop",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bookstore",
+		"sec"
+	],
+	"name" : "WABookshopView",
+	"type" : "normal"
+}

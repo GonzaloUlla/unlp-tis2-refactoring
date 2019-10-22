@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "JulianGrigera 9/6/2019 18:35",
+	"super" : "Object",
+	"category" : "Bookshop",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"title",
+		"author",
+		"price",
+		"isBestSeller"
+	],
+	"name" : "Book",
+	"type" : "normal"
+}
