@@ -1,6 +1,6 @@
 instance creation
 newBestSeller
-	| bs |
-	bs := Book new.
-	bs isBestSeller: true.
-	^ bs
+	| bestSeller |
+	bestSeller := Book new.
+	bestSeller isBestSeller: true.
+	^ bestSeller

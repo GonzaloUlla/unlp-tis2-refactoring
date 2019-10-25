@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "JulianGrigera 9/6/2019 15:38",
 	"super" : "WAComponent",
-	"category" : "Bookshop",
+	"category" : "Bookshop-Web",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
