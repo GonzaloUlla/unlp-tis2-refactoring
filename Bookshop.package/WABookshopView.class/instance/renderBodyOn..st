@@ -2,6 +2,6 @@ rendering
 renderBodyOn: html
 	html tbsNav
 		bePills;
-		with: [ self renderNavigationHomeOn: html.
-			self renderNavigationLatestOn: html.
-			self renderNavigationFeaturedOn: html ]
+		with: [ self renderNavigationItemOn: html section: #home anchorName: 'Home'.
+			self renderNavigationItemOn: html section: #latest anchorName: 'Latest'.
+			self renderNavigationItemOn: html section: #featured anchorName: 'Featured' ]
